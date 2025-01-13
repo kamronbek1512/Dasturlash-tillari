@@ -1,2 +1,1 @@
-# Dasturlash-tillari
 # Dasturlash-tillar
