@@ -1,1 +1,1 @@
-# Dasturlash-tillar
+# Dasturlash-til
