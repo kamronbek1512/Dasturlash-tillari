@@ -1,1 +1,1 @@
-# Dasturlash-til
+# dasturlash
